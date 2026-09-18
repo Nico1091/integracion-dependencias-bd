@@ -6,5 +6,5 @@ de base de datos.
 **No contiene código publicado.** El desarrollo asociado se mantiene fuera del
 repositorio y aquí solo se reserva el espacio y el nombre del componente.
 
-Trabajo relacionado disponible en [Openclaw_Database](https://github.com/Nico1091/Openclaw_Database)
-y [Openclawbd_Dependency](https://github.com/Nico1091/Openclawbd_Dependency).
+Trabajo relacionado disponible en [openclaw-dashboard](https://github.com/Nico1091/openclaw-dashboard)
+y [openclaw-memoria-sql](https://github.com/Nico1091/openclaw-memoria-sql).
